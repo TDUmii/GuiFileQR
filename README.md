@@ -4,7 +4,9 @@ App desktop Python gửi một file từ máy tính sang điện thoại trong c
 
 ## Chạy trên Windows
 
-Cài Python 3.10 trở lên kèm Tcl/Tk. Nếu lấy mã nguồn bằng Git, dùng tài khoản GitHub có quyền truy cập kho rồi chạy hai lệnh sau trong Terminal.
+Cài Python 3.10 trở lên kèm Tcl/Tk. Trên trang GitHub của dự án, bấm **Code** → **Download ZIP**, rồi giải nén thư mục vừa tải.
+
+Nếu đã cài Git, có thể chạy hai lệnh sau trong Terminal.
 
 ```powershell
 git clone https://github.com/TDUmii/GuiFileQR.git
